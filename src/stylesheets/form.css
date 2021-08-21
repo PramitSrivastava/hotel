@@ -1,0 +1,11 @@
+.container-md{
+    background-color: rgba(11, 15, 252, 0.445);
+    
+    
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+}
+.btn{
+    width: 20%;
+    margin-left: 40%;
+}
