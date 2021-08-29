@@ -5,7 +5,7 @@ export default function Services() {
     return (
         <div className="typ">
             
-            <h1 className="ert">SERVICES</h1>
+           
             < hr className="erw"/ >
             <div className="row">
   <div className="col-md-3">

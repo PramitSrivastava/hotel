@@ -7,6 +7,8 @@ import Home from "./components/Home";
 import Form from './components/Form';
 import Room from './components/Room';
 import Payment from './components/Payment';  
+import Footer from './components/Footer';
+import Body1 from './components/Body1';
 
 
 function App() {
@@ -25,7 +27,7 @@ function App() {
 <Route component ={Home }  path={'/Home'}></Route> 
 <Route component ={Form }  path={'/Form'}></Route> 
 </Router>
-    
+    <Footer></Footer>
     
     </div>
   );

@@ -1,13 +1,18 @@
 import React from 'react'
 import Title from './Title'
 import Form from './Form'
+
 import '../stylesheets/home.css';
 
 export default function Home() {
     return (
-        
-        <div  >
-     <Title></Title>
+      
+        <div className="rty"  >
+    
+     <h2 className="reqp">Make your vacation</h2>
+     
+     <h1 className="yuio">Comfortable</h1>
+    
      <div id="carouselExampleIndicators" className="carousel slide" data-bs-ride="carousel">
   <div className="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" className="active" aria-current="true" aria-label="Slide 1"></button>
@@ -16,13 +21,13 @@ export default function Home() {
   </div>
   <div className="carousel-inner">
     <div className="carousel-item active">
-      <img src="https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGhvdGVsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" className="d-block w-100" alt="..."/>
+      <img  src="https://lh3.googleusercontent.com/proxy/1_o4eRkVbfqdC304SJ1LVox0KDgCLXvnVtekrPiL5McbGz8aduXvWmnN5Hi2_K8arid7TGyXecVOkrbiKQQjuYBK8JnBbRlBbA19LO0lc5VHKwGhFDxCHJdCi7jZSnFoadi8aRkBlzmRc2t6Biz_vKHd3dJXY6fteug" className="d-block w-50" alt="..."/>
     </div>
     <div className="carousel-item">
-      <img src="..." className="d-block w-100" alt="..."/>
+      <img src="https://wallpapers.net/web/wallpapers/maldives-hotel-room-hd-wallpaper/5120x2160.jpg" className="d-block w-50" alt="..."/>
     </div>
     <div className="carousel-item">
-      <img src="..." className="d-block w-100" alt="..."/>
+      <img src="http://wallpapers.net/las-vegas-unleashed-hd-wallpaper/download/5120x2160.jpg" className="d-block w-50" alt="..."/>
     </div>
   </div>
   <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -34,6 +39,24 @@ export default function Home() {
     <span className="visually-hidden">Next</span>
   </button>
 </div>
+
+          <h2 className="yhj">Book now </h2>
+
+
+       
+                  
+                   
+                   
+             
+                  
+                      
+                   
+            
+               
+            
+            
+               
+
           
 
         </div>

@@ -3,7 +3,8 @@ import { Link } from 'react-router-dom';
 import '../stylesheets/form.css';
 export default function Form() {
     return (
-        <div >
+        <div className="tgb"  >
+          {/* <h1 className="plm">Inquiry Form</h1> */}
             <div className="container-md">
             <form className="row g-3">
   <div className="col-md-6">
